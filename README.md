@@ -23,3 +23,8 @@ Useful for basic system monitoring in IT operations and infrastructure environme
 
 ## Configuration
 Thresholds and monitoring interval can be configured using `config.json` without modifying source code.
+
+## Sample Output
+
+![System Health Log Output](log-output.png)
+
